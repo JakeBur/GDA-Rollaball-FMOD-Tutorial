@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{ccfc1c1b-2e2c-4666-a920-1c0ef8dbe51f}">
+		<property name="assetPath">
+			<value>SFX/zapsplat_leisure_marble_glass_roll_wood_floor_001_18360.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0612291666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c55992e2-97aa-4490-8cf8-f480a52ce84c}</destination>
+		</relationship>
+	</object>
+</objects>

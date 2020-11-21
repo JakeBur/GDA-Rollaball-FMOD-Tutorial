@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{471c82de-fb2e-4e32-9c18-43d8781734c6}">
+		<property name="name">
+			<value>Slope</value>
+		</property>
+		<relationship name="folder">
+			<destination>{41d7bfc3-1aff-4cd1-89b3-ba1f26cae6b5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{cdd7c2e9-fa27-49c5-ae00-68232c8204cc}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{cdd7c2e9-fa27-49c5-ae00-68232c8204cc}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

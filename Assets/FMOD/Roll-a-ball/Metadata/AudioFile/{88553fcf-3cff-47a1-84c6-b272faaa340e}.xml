@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{88553fcf-3cff-47a1-84c6-b272faaa340e}">
+		<property name="assetPath">
+			<value>SFX/household_door_bell_ding_dong_single.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.640447916666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c55992e2-97aa-4490-8cf8-f480a52ce84c}</destination>
+		</relationship>
+	</object>
+</objects>
